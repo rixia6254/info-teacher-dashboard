@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>情報科教員 情報収集ダッシュボード</title>
+
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   Roboto, "Helvetica Neue", Arial, "Noto Sans JP", sans-serif;
+      margin: 16px;
+      max-width: 1000px;
+    }
+
+    h1 {
+      margin-bottom: 12px;
+    }
+
+    .row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+      align-items: center;
+    }
+
+    .chip {
+      padding: 6px 12px;
+      border: 1px solid #ccc;
+      border-radius: 999px;
+      cursor: pointer;
+      background: #fff;
+      font-size: 14px;
+    }
+
+    .chip.active {
+      background: #e0e0e0;
+      font-weight: bold;
+    }
+
+    .card {
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 12px;
+    }
+
+    .meta {
+      font-size: 12px;
+      color: #666;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .title {
+      font-size: 16px;
+      font-weight: 700;
+      margin: 6px 0;
+    }
+
+    .title a {
+      text-decoration: none;
+      color: #000;
+    }
+
+    .title a:hover {
+      text-decoration: underline;
+    }
+
+    .actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      margin-top: 8px;
+    }
+
+    .memo {
+      flex: 1;
+      padding: 6px 8px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .btn {
+      padding: 6px 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      cursor: pointer;
+      background: #fff;
+      font-size: 14px;
+    }
+
+    .hint {
+      color: #d32f2f;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>📊 情報科教員 情報収集ダッシュボード</h1>
+
+  <div class="row">
+    <span class="chip active" data-cat="ALL">All</span>
+    <span class="chip" data-cat="MEXT">文科省</span>
+    <span class="chip" data-cat="AI">生成AI</span>
+    <span class="chip" data-cat="ICT">校務ICT</span>
+    <span class="chip" data-cat="LESSON">授業</span>
+
+    <input id="search"
+           placeholder="検索（例：教育課程 / 情報 / AI）"
+           style="margin-left:auto; padding:6px 8px; width:260px;">
+
+    <label style="font-size:13px;">
+      <input type="checkbox" id="onlyStar"> ⭐のみ表示
+    </label>
+  </div>
+
+  <div id="list">読み込み中...</div>
+
+<script>
+const STAR_KEY = "info_dash_stars";
+const MEMO_KEY = "info_dash_memos";
+
+const getStars = () => new Set(JSON.parse(localStorage.getItem(STAR_KEY) || "[]"));
+const saveStars = (s) => localStorage.setItem(STAR_KEY, JSON.stringify([...s]));
+
+const getMemos = () => JSON.parse(localStorage.getItem(MEMO_KEY) || "{}");
+const saveMemos = (m) => localStorage.setItem(MEMO_KEY, JSON.stringify(m));
+
+let state = {
+  items: [],
+  category: "ALL",
+  search: "",
+  onlyStar: false
+};
+
+function render() {
+  const stars = getStars();
+  const memos = getMemos();
+
+  let items = state.items.slice();
+
+  if (state.category !== "ALL") {
+    items = items.filter(i => i.category === state.category);
+  }
+
+  if (state.search) {
+    items = items.filter(i => i.title.includes(state.search));
+  }
+
+  if (state.onlyStar) {
+    items = items.filter(i => stars.has(i.id));
+  }
+
+  const list = document.getElementById("list");
+  if (items.length === 0) {
+    list.textContent = "該当する記事がありません";
+    return;
+  }
+
+  list.innerHTML = items.map(i => {
+    const star = stars.has(i.id) ? "⭐" : "☆";
+    const memo = memos[i.id] || "";
+    const hint = i.important_hint ? `<span class="hint">⚠️ 大事かも</span>` : "";
+
+    return `
+      <div class="card">
+        <div class="meta">
+          <span>${i.source}</span>
+          <span>${(i.date || "").slice(0,10)}</span>
+          <span>${i.category}</span>
+          ${hint}
+        </div>
+        <div class="title">
+          <a href="${i.url}" target="_blank" rel="noreferrer">${i.title}</a>
+        </div>
+        <div class="actions">
+          <button class="btn" data-star="${i.id}">${star}</button>
+          <input class="memo"
+                 data-memo="${i.id}"
+                 placeholder="1行メモ（例：次の会議で確認）"
+                 value="${memo.replace(/"/g,'&quot;')}">
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  document.querySelectorAll("[data-star]").forEach(b => {
+    b.onclick = () => {
+      const id = b.dataset.star;
+      const s = getStars();
+      s.has(id) ? s.delete(id) : s.add(id);
+      saveStars(s);
+      render();
+    };
+  });
+
+  document.querySelectorAll("[data-memo]").forEach(i => {
+    i.onchange = () => {
+      const m = getMemos();
+      m[i.dataset.memo] = i.value;
+      saveMemos(m);
+    };
+  });
+}
+
+async function load() {
+  const res = await fetch("data/items.json", { cache: "no-store" });
+  const data = await res.json();
+  state.items = data.items || [];
+  render();
+}
+
+document.getElementById("search").oninput = e => {
+  state.search = e.target.value;
+  render();
+};
+
+document.getElementById("onlyStar").onchange = e => {
+  state.onlyStar = e.target.checked;
+  render();
+};
+
+document.querySelectorAll(".chip").forEach(c => {
+  c.onclick = () => {
+    document.querySelectorAll(".chip").forEach(x => x.classList.remove("active"));
+    c.classList.add("active");
+    state.category = c.dataset.cat;
+    render();
+  };
+});
+
+load();
+</script>
+</body>
+</html>
