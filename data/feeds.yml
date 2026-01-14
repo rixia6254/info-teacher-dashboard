@@ -1,0 +1,5 @@
+feeds:
+  - id: mext_news
+    name: 文部科学省 新着情報
+    url: https://www.mext.go.jp/b_menu/news/index.rdf
+    category: MEXT
