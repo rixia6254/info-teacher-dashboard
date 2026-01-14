@@ -167,6 +167,36 @@ function render() {
     const memo = memos[i.id] || "";
     const hint = i.important_hint ? `<span class="hint">⚠️ 大事かも</span>` : "";
 
+    const aiTemplate = (i.category === "AI") ? `
+      <div style="margin-top:8px; font-size:12px; color:#444; line-height:1.5;">
+        <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+          <span style="padding:2px 8px; border:1px solid #ddd; border-radius:999px;">AIテンプレ</span>
+          <button class="btn" data-aicopy="${i.id}" type="button">テンプレをコピー</button>
+          <button class="btn" data-aipaste="${i.id}" type="button">メモ欄へ貼る</button>
+        </div>
+        <details style="margin-top:6px;">
+          <summary style="cursor:pointer;">テンプレを見る</summary>
+          <pre style="white-space:pre-wrap; margin:6px 0 0; padding:8px; border:1px solid #eee; border-radius:8px; background:#fafafa;">【新AI/アップデート要点】
+- 何が変わった？：
+- 既存との違い（強み/弱み）：
+
+【教育での使い道（例）】
+- 授業準備：
+- 探究/課題：
+- 評価/フィードバック：
+
+【注意（校内規定/個人情報/著作権）】
+- 入力してはいけない情報：
+- 生成物の扱い（出典/検証）：
+
+【次アクション】
+- 試す授業場面：
+- 必要な承認/相談先：</pre>
+        </details>
+      </div>
+    ` : "";
+
+
     return `
       <div class="card">
         <div class="meta">
@@ -178,6 +208,7 @@ function render() {
         <div class="title">
           <a href="${i.url}" target="_blank" rel="noreferrer">${i.title}</a>
         </div>
+         ${aiTemplate}
         <div class="actions">
           <button class="btn" data-star="${i.id}">${star}</button>
           <input class="memo"
@@ -195,6 +226,45 @@ function render() {
       const s = getStars();
       s.has(id) ? s.delete(id) : s.add(id);
       saveStars(s);
+      render();
+    };
+  });
+  // AIテンプレ：コピー＆メモ欄へ貼る
+  const templateText = `【新AI/アップデート要点】
+- 何が変わった？：
+- 既存との違い（強み/弱み）：
+
+【教育での使い道（例）】
+- 授業準備：
+- 探究/課題：
+- 評価/フィードバック：
+
+【注意（校内規定/個人情報/著作権）】
+- 入力してはいけない情報：
+- 生成物の扱い（出典/検証）：
+
+【次アクション】
+- 試す授業場面：
+- 必要な承認/相談先：`;
+
+  document.querySelectorAll("[data-aicopy]").forEach(b => {
+    b.onclick = async () => {
+      try {
+        await navigator.clipboard.writeText(templateText);
+        b.textContent = "コピーしました";
+        setTimeout(() => b.textContent = "テンプレをコピー", 900);
+      } catch (e) {
+        alert("コピーに失敗しました（ブラウザ権限の可能性）");
+      }
+    };
+  });
+
+  document.querySelectorAll("[data-aipaste]").forEach(b => {
+    b.onclick = () => {
+      const id = b.dataset.aipaste;
+      const m = getMemos();
+      m[id] = (m[id] ? (m[id] + "\n\n") : "") + templateText;
+      saveMemos(m);
       render();
     };
   });
