@@ -1,6 +1,6 @@
 import json, hashlib, datetime, re
 import xml.etree.ElementTree as ET
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 
 # ---- Filters (B方式: 間引き) ----
 FORCE_EXCLUDE = [
@@ -106,7 +106,6 @@ def _text(el):
 
 def parse_rss2_or_atom(xml_bytes: bytes):
     root = ET.fromstring(xml_bytes)
-    tag = root.tag.lower()
 
     items = []
     # RSS2
@@ -130,7 +129,14 @@ def parse_rss2_or_atom(xml_bytes: bytes):
     return items
 
 def fetch(url: str) -> bytes:
-    with urlopen(url) as r:
+    req = Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; info-teacher-dashboard/1.0; +https://github.com/)",
+            "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+        }
+    )
+    with urlopen(req, timeout=30) as r:
         return r.read()
 
 def main():
@@ -138,17 +144,24 @@ def main():
     all_items = []
 
     for f in feeds:
-        url = f["url"]
-        name = f["name"]
-        cat = f["category"]
+        url = f.get("url", "")
+        name = f.get("name", "")
+        cat = f.get("category", "MISC")
 
-        xml_bytes = fetch(url)
-
-        # Try RDF1.0 first, then RSS/Atom
+        # ★ここが「B：失敗しても続行」のキモ
         try:
-            parsed = parse_rdf10(xml_bytes)
-        except Exception:
-            parsed = parse_rss2_or_atom(xml_bytes)
+            xml_bytes = fetch(url)
+
+            # Try RDF1.0 first, then RSS/Atom
+            try:
+                parsed = parse_rdf10(xml_bytes)
+            except Exception:
+                parsed = parse_rss2_or_atom(xml_bytes)
+
+        except Exception as e:
+            # 1つ落ちても全体は止めない
+            print(f"[WARN] fetch failed: {name} ({url}) -> {e}")
+            continue
 
         for title, link, date in parsed:
             if not title or not link:
