@@ -3,3 +3,13 @@ feeds:
     name: 文部科学省 新着情報
     url: https://www.mext.go.jp/b_menu/news/index.rdf
     category: MEXT
+
+  - id: openai_news
+    name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    category: AI
+
+  - id: google_ai
+    name: Google AI Blog
+    url: https://blog.google/rss/?hl=en&topic=ai
+    category: AI
