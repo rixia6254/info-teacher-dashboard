@@ -13,3 +13,44 @@ feeds:
     name: Google AI Blog
     url: https://blog.google/rss/?hl=en&topic=ai
     category: AI
+
+      - id: hf_blog
+    name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: AI
+
+  - id: aws_ml
+    name: AWS Machine Learning Blog
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    category: AI
+
+  - id: deepmind_blog
+    name: Google DeepMind Blog
+    url: https://deepmind.google/discover/blog/rss.xml
+    category: AI
+
+  - id: anthropic_news
+    name: Anthropic News
+    url: https://www.anthropic.com/news/rss.xml
+    category: AI
+
+  - id: eduai_hf
+    name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: AI
+
+  - id: eduai_googleedu
+    name: The Keyword (Google) - Education
+    url: https://blog.google/outreach-initiatives/education/rss/
+    category: AI
+
+  - id: eduai_microsoftedu
+    name: Microsoft EDU Blog
+    url: https://educationblog.microsoft.com/en-us/feed/
+    category: AI
+
+  - id: eduai_canva
+    name: Canva (News)
+    url: https://www.canva.com/news/feed/
+    category: AI
+
