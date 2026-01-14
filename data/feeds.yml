@@ -24,30 +24,21 @@ feeds:
     url: https://aws.amazon.com/blogs/machine-learning/feed/
     category: AI
 
-  - id: deepmind_blog
-    name: Google DeepMind Blog
-    url: https://deepmind.google/discover/blog/rss.xml
+   - id: gnews_edu_ai
+    name: Google News 検索: 教育×生成AI
+    url: https://news.google.com/rss/search?q=教育+生成AI&hl=ja&gl=JP&ceid=JP:ja
     category: AI
 
-  - id: anthropic_news
-    name: Anthropic News
-    url: https://www.anthropic.com/news/rss.xml
-    category: AI
+  - id: gnews_school_ai_rule
+    name: Google News 検索: 学校×AI×ガイドライン
+    url: https://news.google.com/rss/search?q=学校+AI+ガイドライン&hl=ja&gl=JP&ceid=JP:ja
+    category: TEACH
 
-  - id: eduai_hf
-    name: Hugging Face Blog
-    url: https://huggingface.co/blog/feed.xml
-    category: AI
+  - id: gnews_info1
+    name: Google News 検索: 情報Ⅰ
+    url: https://news.google.com/rss/search?q=情報Ⅰ&hl=ja&gl=JP&ceid=JP:ja
+    category: TEACH
 
-  - id: eduai_googleedu
-    name: The Keyword (Google) - Education
-    url: https://blog.google/outreach-initiatives/education/rss/
-    category: AI
-
-  - id: eduai_microsoftedu
-    name: Microsoft EDU Blog
-    url: https://educationblog.microsoft.com/en-us/feed/
-    category: AI
 
   - id: eduai_canva
     name: Canva (News)
