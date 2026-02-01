@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T22:15:16.075589+00:00",
+  "generated_at": "2026-02-01T22:16:20.435242+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -446,18 +446,6 @@
       ]
     },
     {
-      "id": "05385cc77d7c",
-      "title": "The Ads Decoded Podcast",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-collection/",
-      "date": "Wed, 28 Jan 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "6890083804b5",
       "title": "We’re launching the Ads Decoded Podcast to connect advertisers with the people building Google Ads.",
       "url": "https://blog.google/products/ads-commerce/launching-ads-decoded-podcast/",
@@ -470,9 +458,9 @@
       ]
     },
     {
-      "id": "3ff8be0e139d",
-      "title": "Ads Decoded presents three AI strategies to master the future of marketing in 2026.",
-      "url": "https://blog.google/products/ads-commerce/ai-strategies-master-marketing-2026/",
+      "id": "05385cc77d7c",
+      "title": "The Ads Decoded Podcast",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-collection/",
       "date": "Wed, 28 Jan 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -485,6 +473,18 @@
       "id": "a064539f2191",
       "title": "The first episode of the Ads Decoded podcast dives into how marketers can leverage analytics and AI for better results.",
       "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-google-analytics/",
+      "date": "Wed, 28 Jan 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3ff8be0e139d",
+      "title": "Ads Decoded presents three AI strategies to master the future of marketing in 2026.",
+      "url": "https://blog.google/products/ads-commerce/ai-strategies-master-marketing-2026/",
       "date": "Wed, 28 Jan 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
