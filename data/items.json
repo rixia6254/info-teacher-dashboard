@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T22:21:26.225310+00:00",
+  "generated_at": "2026-03-14T22:18:14.598409+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -698,9 +698,9 @@
       ]
     },
     {
-      "id": "e70080198a7c",
-      "title": "Team update",
-      "url": "https://openai.com/index/team-update",
+      "id": "c57e5be7c3ab",
+      "title": "Adversarial training methods for semi-supervised text classification",
+      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
       "date": "Wed, 25 May 2016 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -710,9 +710,9 @@
       ]
     },
     {
-      "id": "c57e5be7c3ab",
-      "title": "Adversarial training methods for semi-supervised text classification",
-      "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+      "id": "e70080198a7c",
+      "title": "Team update",
+      "url": "https://openai.com/index/team-update",
       "date": "Wed, 25 May 2016 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1550,6 +1550,18 @@
       ]
     },
     {
+      "id": "2e20d64f2447",
+      "title": "A free version of ChatGPT built for teachers",
+      "url": "https://openai.com/index/chatgpt-for-teachers",
+      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "778f8db71ab2",
       "title": "GPT-5.1-Codex-Max System Card",
       "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
@@ -1565,18 +1577,6 @@
       "id": "277fd3bcd8d7",
       "title": "Building more with GPT-5.1-Codex-Max",
       "url": "https://openai.com/index/gpt-5-1-codex-max",
-      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "2e20d64f2447",
-      "title": "A free version of ChatGPT built for teachers",
-      "url": "https://openai.com/index/chatgpt-for-teachers",
       "date": "Wed, 19 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1658,9 +1658,9 @@
       ]
     },
     {
-      "id": "2fae4ad83624",
-      "title": "Asymmetric actor critic for image-based robot learning",
-      "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+      "id": "a7b934d73bd4",
+      "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+      "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
       "date": "Wed, 18 Oct 2017 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1670,9 +1670,9 @@
       ]
     },
     {
-      "id": "a7b934d73bd4",
-      "title": "Sim-to-real transfer of robotic control with dynamics randomization",
-      "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+      "id": "2fae4ad83624",
+      "title": "Asymmetric actor critic for image-based robot learning",
+      "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
       "date": "Wed, 18 Oct 2017 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2018,9 +2018,9 @@
       ]
     },
     {
-      "id": "d2a0e963a651",
-      "title": "OpenAI o3 and o4-mini System Card",
-      "url": "https://openai.com/index/o3-o4-mini-system-card",
+      "id": "4ca3a7340a2c",
+      "title": "Introducing OpenAI o3 and o4-mini",
+      "url": "https://openai.com/index/introducing-o3-and-o4-mini",
       "date": "Wed, 16 Apr 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2042,9 +2042,9 @@
       ]
     },
     {
-      "id": "4ca3a7340a2c",
-      "title": "Introducing OpenAI o3 and o4-mini",
-      "url": "https://openai.com/index/introducing-o3-and-o4-mini",
+      "id": "d2a0e963a651",
+      "title": "OpenAI o3 and o4-mini System Card",
+      "url": "https://openai.com/index/o3-o4-mini-system-card",
       "date": "Wed, 16 Apr 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2654,9 +2654,9 @@
       ]
     },
     {
-      "id": "b5882215e332",
-      "title": "Building AI-powered apps for business",
-      "url": "https://openai.com/index/retool",
+      "id": "9d120c5eb719",
+      "title": "Evolving online forms into dynamic data",
+      "url": "https://openai.com/index/typeform",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2678,9 +2678,9 @@
       ]
     },
     {
-      "id": "9d120c5eb719",
-      "title": "Evolving online forms into dynamic data",
-      "url": "https://openai.com/index/typeform",
+      "id": "47dbcfa63868",
+      "title": "Simplifying contract reviews with AI",
+      "url": "https://openai.com/index/ironclad",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2690,9 +2690,9 @@
       ]
     },
     {
-      "id": "47dbcfa63868",
-      "title": "Simplifying contract reviews with AI",
-      "url": "https://openai.com/index/ironclad",
+      "id": "b5882215e332",
+      "title": "Building AI-powered apps for business",
+      "url": "https://openai.com/index/retool",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3518,9 +3518,9 @@
       ]
     },
     {
-      "id": "46cbd18ea8dd",
-      "title": "Sparking a more productive company with ChatGPT Enterprise",
-      "url": "https://openai.com/index/match-group",
+      "id": "07180d34421a",
+      "title": "Improving health literacy and patient well-being",
+      "url": "https://openai.com/index/lifespan",
       "date": "Wed, 06 Mar 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3542,9 +3542,9 @@
       ]
     },
     {
-      "id": "07180d34421a",
-      "title": "Improving health literacy and patient well-being",
-      "url": "https://openai.com/index/lifespan",
+      "id": "46cbd18ea8dd",
+      "title": "Sparking a more productive company with ChatGPT Enterprise",
+      "url": "https://openai.com/index/match-group",
       "date": "Wed, 06 Mar 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3818,9 +3818,9 @@
       ]
     },
     {
-      "id": "4408edb280a0",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "id": "47744e1c25f2",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3830,9 +3830,9 @@
       ]
     },
     {
-      "id": "47744e1c25f2",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
+      "id": "4408edb280a0",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4250,9 +4250,9 @@
       ]
     },
     {
-      "id": "c8d63ee49a3a",
-      "title": "Sora 2 is here",
-      "url": "https://openai.com/index/sora-2",
+      "id": "d58061564c62",
+      "title": "Sora 2 System Card",
+      "url": "https://openai.com/index/sora-2-system-card",
       "date": "Tue, 30 Sep 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4274,9 +4274,9 @@
       ]
     },
     {
-      "id": "d58061564c62",
-      "title": "Sora 2 System Card",
-      "url": "https://openai.com/index/sora-2-system-card",
+      "id": "c8d63ee49a3a",
+      "title": "Sora 2 is here",
+      "url": "https://openai.com/index/sora-2",
       "date": "Tue, 30 Sep 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4514,9 +4514,9 @@
       ]
     },
     {
-      "id": "4c569bc2a162",
-      "title": "Built to benefit everyone",
-      "url": "https://openai.com/index/built-to-benefit-everyone",
+      "id": "574e7f80ba9c",
+      "title": "The next chapter of the Microsoft–OpenAI partnership",
+      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
       "date": "Tue, 28 Oct 2025 06:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4526,9 +4526,9 @@
       ]
     },
     {
-      "id": "574e7f80ba9c",
-      "title": "The next chapter of the Microsoft–OpenAI partnership",
-      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
+      "id": "4c569bc2a162",
+      "title": "Built to benefit everyone",
+      "url": "https://openai.com/index/built-to-benefit-everyone",
       "date": "Tue, 28 Oct 2025 06:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4730,9 +4730,9 @@
       ]
     },
     {
-      "id": "42533aa4f8b5",
-      "title": "Powering tax donations with AI powered personalized recommendations",
-      "url": "https://openai.com/index/trustbank",
+      "id": "2c97344d1f84",
+      "title": "Introducing Prism",
+      "url": "https://openai.com/index/introducing-prism",
       "date": "Tue, 27 Jan 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4742,9 +4742,9 @@
       ]
     },
     {
-      "id": "2c97344d1f84",
-      "title": "Introducing Prism",
-      "url": "https://openai.com/index/introducing-prism",
+      "id": "42533aa4f8b5",
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "url": "https://openai.com/index/trustbank",
       "date": "Tue, 27 Jan 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5918,9 +5918,9 @@
       ]
     },
     {
-      "id": "ec4689904d5d",
-      "title": "Preparing for malicious uses of AI",
-      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+      "id": "abb33238d90c",
+      "title": "OpenAI supporters",
+      "url": "https://openai.com/index/openai-supporters",
       "date": "Tue, 20 Feb 2018 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5930,9 +5930,9 @@
       ]
     },
     {
-      "id": "abb33238d90c",
-      "title": "OpenAI supporters",
-      "url": "https://openai.com/index/openai-supporters",
+      "id": "ec4689904d5d",
+      "title": "Preparing for malicious uses of AI",
+      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
       "date": "Tue, 20 Feb 2018 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6818,9 +6818,9 @@
       ]
     },
     {
-      "id": "fa92618d64df",
-      "title": "Streamlining financial solutions for safety and growth",
-      "url": "https://openai.com/index/stripe",
+      "id": "e20533c67052",
+      "title": "Preserving languages for the future",
+      "url": "https://openai.com/index/government-of-iceland",
       "date": "Tue, 14 Mar 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6830,9 +6830,33 @@
       ]
     },
     {
-      "id": "e20533c67052",
-      "title": "Preserving languages for the future",
-      "url": "https://openai.com/index/government-of-iceland",
+      "id": "4418bc3a4906",
+      "title": "Filling crucial language learning gaps",
+      "url": "https://openai.com/index/duolingo",
+      "date": "Tue, 14 Mar 2023 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "10869ee52892",
+      "title": "Transforming visual accessibility",
+      "url": "https://openai.com/index/be-my-eyes",
+      "date": "Tue, 14 Mar 2023 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "fa92618d64df",
+      "title": "Streamlining financial solutions for safety and growth",
+      "url": "https://openai.com/index/stripe",
       "date": "Tue, 14 Mar 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6857,30 +6881,6 @@
       "id": "9611a3435077",
       "title": "Powering virtual education for the classroom",
       "url": "https://openai.com/index/khan-academy",
-      "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "10869ee52892",
-      "title": "Transforming visual accessibility",
-      "url": "https://openai.com/index/be-my-eyes",
-      "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4418bc3a4906",
-      "title": "Filling crucial language learning gaps",
-      "url": "https://openai.com/index/duolingo",
       "date": "Tue, 14 Mar 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
