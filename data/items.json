@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:52:49.321637+00:00",
+  "generated_at": "2026-05-26T23:02:31.215011+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -5282,6 +5282,114 @@
       ]
     },
     {
+      "id": "4ec7aed0dd37",
+      "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+      "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
+      "date": "Tue, 26 May 2026 17:57:18 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "39d05ecec1a8",
+      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
+      "date": "Tue, 26 May 2026 17:41:26 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "10132281efe3",
+      "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/",
+      "date": "Tue, 26 May 2026 17:39:46 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "faa0b9e09cae",
+      "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/",
+      "date": "Tue, 26 May 2026 17:22:48 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "e1ce1d6fa6b0",
+      "title": "Google Display Ads has a new home in Demand Gen.",
+      "url": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
+      "date": "Tue, 26 May 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "9a64f9c01faa",
+      "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/",
+      "date": "Tue, 26 May 2026 16:28:08 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "99e6a76c3d57",
+      "title": "Build an enterprise observability solution for Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/",
+      "date": "Tue, 26 May 2026 16:09:06 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "02064d6bfe0f",
+      "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+      "url": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
+      "date": "Tue, 26 May 2026 15:59:16 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3eda2b48270c",
+      "title": "Google Health brings your data into one place, on your terms",
+      "url": "https://blog.google/products-and-platforms/products/google-health/connect-data-across-devices/",
+      "date": "Tue, 26 May 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "80f5e91fa576",
       "title": "OpenAI Five Finals",
       "url": "https://openai.com/index/openai-five-finals",
@@ -6578,31 +6686,6 @@
       ]
     },
     {
-      "id": "8fc9597adf55",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "date": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4a09b699f249",
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "date": "Tue, 19 May 2026 17:45:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#ICT",
-        "#生成AI"
-      ]
-    },
-    {
       "id": "fa72482d0f13",
       "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
       "url": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/",
@@ -6619,30 +6702,6 @@
       "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
       "url": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/",
       "date": "Tue, 19 May 2026 15:23:22 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "44181a83c02f",
-      "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
-      "date": "Tue, 19 May 2026 15:20:33 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "9f8322c4cbbc",
-      "title": "Implementing programmatic tool calling on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
-      "date": "Tue, 19 May 2026 15:17:00 +0000",
       "source": "AWS Machine Learning Blog",
       "category": "AI",
       "important_hint": false,
@@ -7136,66 +7195,6 @@
       "url": "https://huggingface.co/blog/smollm",
       "date": "Tue, 16 Jul 2024 00:00:00 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "336dcea2724d",
-      "title": "How we leveraged distilabel to create an Argilla 2.0 Chatbot",
-      "url": "https://huggingface.co/blog/argilla-chatbot",
-      "date": "Tue, 16 Jul 2024 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "01a7eea09f94",
-      "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
-      "url": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
-      "date": "Tue, 16 Jan 2024 08:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "c8771e7bd03b",
-      "title": "Evaluating AI’s ability to perform scientific research tasks",
-      "url": "https://openai.com/index/frontierscience",
-      "date": "Tue, 16 Dec 2025 09:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "e63ddad45fc6",
-      "title": "Measuring AI’s capability to accelerate biological research",
-      "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
-      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b42f6fefb200",
-      "title": "The new ChatGPT Images is here",
-      "url": "https://openai.com/index/new-chatgpt-images-is-here",
-      "date": "Tue, 16 Dec 2025 00:00:00 GMT",
-      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
