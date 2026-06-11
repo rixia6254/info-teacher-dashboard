@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:19:16.743298+00:00",
+  "generated_at": "2026-06-11T23:15:29.825021+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -494,9 +494,9 @@
       ]
     },
     {
-      "id": "cf58b7400fc9",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "id": "075fc545e694",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "date": "Wed, 28 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -506,9 +506,9 @@
       ]
     },
     {
-      "id": "075fc545e694",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "id": "cf58b7400fc9",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "date": "Wed, 28 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1010,9 +1010,9 @@
       ]
     },
     {
-      "id": "b0ff3df37950",
-      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
-      "url": "https://openai.com/index/gpt-4-api-general-availability",
+      "id": "42d334bcb04a",
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
       "date": "Wed, 24 Apr 2024 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1022,9 +1022,9 @@
       ]
     },
     {
-      "id": "42d334bcb04a",
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "id": "b0ff3df37950",
+      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+      "url": "https://openai.com/index/gpt-4-api-general-availability",
       "date": "Wed, 24 Apr 2024 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1310,6 +1310,18 @@
       ]
     },
     {
+      "id": "5278705df0e5",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "1b162ea8d4aa",
       "title": "Workspace agents",
       "url": "https://openai.com/academy/workspace-agents",
@@ -1325,18 +1337,6 @@
       "id": "c30ec7b01482",
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "5278705df0e5",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1454,9 +1454,9 @@
       ]
     },
     {
-      "id": "aca3ad17ccab",
-      "title": "How countries can end the capability overhang",
-      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "id": "03d0ef228762",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
       "date": "Wed, 21 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1466,9 +1466,9 @@
       ]
     },
     {
-      "id": "03d0ef228762",
-      "title": "Introducing Edu for Countries",
-      "url": "https://openai.com/index/edu-for-countries",
+      "id": "aca3ad17ccab",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
       "date": "Wed, 21 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1598,9 +1598,9 @@
       ]
     },
     {
-      "id": "cb920945cfca",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
+      "id": "7f625f666338",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1610,9 +1610,9 @@
       ]
     },
     {
-      "id": "7f625f666338",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "id": "cb920945cfca",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1790,9 +1790,21 @@
       ]
     },
     {
-      "id": "410aa22bdc35",
-      "title": "How Scania accelerates work with AI across its global workforce",
-      "url": "https://openai.com/index/scania",
+      "id": "2e20d64f2447",
+      "title": "A free version of ChatGPT built for teachers",
+      "url": "https://openai.com/index/chatgpt-for-teachers",
+      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "778f8db71ab2",
+      "title": "GPT-5.1-Codex-Max System Card",
+      "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
       "date": "Wed, 19 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1814,21 +1826,9 @@
       ]
     },
     {
-      "id": "2e20d64f2447",
-      "title": "A free version of ChatGPT built for teachers",
-      "url": "https://openai.com/index/chatgpt-for-teachers",
-      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "778f8db71ab2",
-      "title": "GPT-5.1-Codex-Max System Card",
-      "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+      "id": "410aa22bdc35",
+      "title": "How Scania accelerates work with AI across its global workforce",
+      "url": "https://openai.com/index/scania",
       "date": "Wed, 19 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1898,9 +1898,9 @@
       ]
     },
     {
-      "id": "a7b934d73bd4",
-      "title": "Sim-to-real transfer of robotic control with dynamics randomization",
-      "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+      "id": "2fae4ad83624",
+      "title": "Asymmetric actor critic for image-based robot learning",
+      "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
       "date": "Wed, 18 Oct 2017 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1910,9 +1910,9 @@
       ]
     },
     {
-      "id": "2fae4ad83624",
-      "title": "Asymmetric actor critic for image-based robot learning",
-      "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+      "id": "a7b934d73bd4",
+      "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+      "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
       "date": "Wed, 18 Oct 2017 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2258,6 +2258,18 @@
       ]
     },
     {
+      "id": "3142953457b6",
+      "title": "Thinking with images",
+      "url": "https://openai.com/index/thinking-with-images",
+      "date": "Wed, 16 Apr 2025 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "d2a0e963a651",
       "title": "OpenAI o3 and o4-mini System Card",
       "url": "https://openai.com/index/o3-o4-mini-system-card",
@@ -2273,18 +2285,6 @@
       "id": "4ca3a7340a2c",
       "title": "Introducing OpenAI o3 and o4-mini",
       "url": "https://openai.com/index/introducing-o3-and-o4-mini",
-      "date": "Wed, 16 Apr 2025 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "3142953457b6",
-      "title": "Thinking with images",
-      "url": "https://openai.com/index/thinking-with-images",
       "date": "Wed, 16 Apr 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2810,9 +2810,9 @@
       ]
     },
     {
-      "id": "bc8a3ff5ec4f",
-      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
-      "url": "https://openai.com/index/gpt-5-1",
+      "id": "454c47988229",
+      "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
       "date": "Wed, 12 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2822,9 +2822,9 @@
       ]
     },
     {
-      "id": "454c47988229",
-      "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
-      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+      "id": "bc8a3ff5ec4f",
+      "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+      "url": "https://openai.com/index/gpt-5-1",
       "date": "Wed, 12 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2942,9 +2942,9 @@
       ]
     },
     {
-      "id": "b5882215e332",
-      "title": "Building AI-powered apps for business",
-      "url": "https://openai.com/index/retool",
+      "id": "47dbcfa63868",
+      "title": "Simplifying contract reviews with AI",
+      "url": "https://openai.com/index/ironclad",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2966,9 +2966,9 @@
       ]
     },
     {
-      "id": "47dbcfa63868",
-      "title": "Simplifying contract reviews with AI",
-      "url": "https://openai.com/index/ironclad",
+      "id": "b5882215e332",
+      "title": "Building AI-powered apps for business",
+      "url": "https://openai.com/index/retool",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3170,9 +3170,9 @@
       ]
     },
     {
-      "id": "dfcabc3d7d03",
-      "title": "Save time and grow your business with new Gemini tools",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
+      "id": "aee42fbf79b9",
+      "title": "We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-latin-america/",
       "date": "Wed, 10 Jun 2026 15:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3182,9 +3182,9 @@
       ]
     },
     {
-      "id": "aee42fbf79b9",
-      "title": "We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
-      "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-latin-america/",
+      "id": "dfcabc3d7d03",
+      "title": "Save time and grow your business with new Gemini tools",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
       "date": "Wed, 10 Jun 2026 15:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3206,9 +3206,9 @@
       ]
     },
     {
-      "id": "63b7cdeb4fcd",
-      "title": "The Future Report: Why young people must help shape the future of AI",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/future-report-why-young-people-must-help-shape-the-future-of-ai/",
+      "id": "a44329e41674",
+      "title": "Read The Future Report, our research elevating teen voices across the UK.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/read-the-future-report-uk/",
       "date": "Wed, 10 Jun 2026 10:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3230,9 +3230,9 @@
       ]
     },
     {
-      "id": "a44329e41674",
-      "title": "Read The Future Report, our research elevating teen voices across the UK.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/read-the-future-report-uk/",
+      "id": "63b7cdeb4fcd",
+      "title": "The Future Report: Why young people must help shape the future of AI",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/future-report-why-young-people-must-help-shape-the-future-of-ai/",
       "date": "Wed, 10 Jun 2026 10:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3350,9 +3350,9 @@
       ]
     },
     {
-      "id": "2b5724e563f2",
-      "title": "Introducing the GPT Store",
-      "url": "https://openai.com/index/introducing-the-gpt-store",
+      "id": "4c5542cdedb3",
+      "title": "Introducing ChatGPT Team",
+      "url": "https://openai.com/index/introducing-chatgpt-team",
       "date": "Wed, 10 Jan 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3362,9 +3362,9 @@
       ]
     },
     {
-      "id": "4c5542cdedb3",
-      "title": "Introducing ChatGPT Team",
-      "url": "https://openai.com/index/introducing-chatgpt-team",
+      "id": "2b5724e563f2",
+      "title": "Introducing the GPT Store",
+      "url": "https://openai.com/index/introducing-the-gpt-store",
       "date": "Wed, 10 Jan 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3566,9 +3566,9 @@
       ]
     },
     {
-      "id": "3c2e6e582167",
-      "title": "Helen Toner joins OpenAI’s board of directors",
-      "url": "https://openai.com/index/helen-toner-joins",
+      "id": "c6ddcfa6857f",
+      "title": "TruthfulQA: Measuring how models mimic human falsehoods",
+      "url": "https://openai.com/index/truthfulqa",
       "date": "Wed, 08 Sep 2021 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3578,9 +3578,9 @@
       ]
     },
     {
-      "id": "c6ddcfa6857f",
-      "title": "TruthfulQA: Measuring how models mimic human falsehoods",
-      "url": "https://openai.com/index/truthfulqa",
+      "id": "3c2e6e582167",
+      "title": "Helen Toner joins OpenAI’s board of directors",
+      "url": "https://openai.com/index/helen-toner-joins",
       "date": "Wed, 08 Sep 2021 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3914,30 +3914,6 @@
       ]
     },
     {
-      "id": "94a93b54a777",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "8665a96e70ff",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "94f58b450581",
       "title": "How frontier firms are pulling ahead",
       "url": "https://openai.com/index/introducing-b2b-signals",
@@ -3950,9 +3926,33 @@
       ]
     },
     {
+      "id": "94a93b54a777",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "bdecd9008a33",
       "title": "Introducing ChatGPT Futures: Class of 2026",
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8665a96e70ff",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4238,9 +4238,9 @@
       ]
     },
     {
-      "id": "47744e1c25f2",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
+      "id": "4408edb280a0",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4250,9 +4250,9 @@
       ]
     },
     {
-      "id": "4408edb280a0",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "id": "47744e1c25f2",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4394,18 +4394,6 @@
       ]
     },
     {
-      "id": "d22e32064786",
-      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/improve-your-agents-tool-calling-accuracy-with-sft-and-dpo-on-amazon-sagemaker-ai/",
-      "date": "Wed, 03 Jun 2026 15:56:50 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "bfb45dcad644",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -4442,9 +4430,9 @@
       ]
     },
     {
-      "id": "0a440e310365",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
+      "id": "fae173f5fba9",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4454,9 +4442,9 @@
       ]
     },
     {
-      "id": "fae173f5fba9",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "0a440e310365",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5270,9 +5258,9 @@
       ]
     },
     {
-      "id": "e6284b864c34",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "id": "368128e6f281",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5282,9 +5270,9 @@
       ]
     },
     {
-      "id": "368128e6f281",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
+      "id": "e6284b864c34",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -7195,6 +7183,18 @@
       "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
       "date": "Tue, 16 May 2023 00:00:00 GMT",
       "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3b5a2cc880cb",
+      "title": "Robots that learn",
+      "url": "https://openai.com/index/robots-that-learn",
+      "date": "Tue, 16 May 2017 07:00:00 GMT",
+      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
