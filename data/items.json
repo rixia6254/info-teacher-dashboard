@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T23:03:35.792685+00:00",
+  "generated_at": "2026-07-01T23:04:32.549873+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -1346,9 +1346,9 @@
       ]
     },
     {
-      "id": "1b162ea8d4aa",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
+      "id": "c30ec7b01482",
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1370,9 +1370,9 @@
       ]
     },
     {
-      "id": "c30ec7b01482",
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "id": "1b162ea8d4aa",
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1634,6 +1634,18 @@
       ]
     },
     {
+      "id": "cb920945cfca",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "date": "Wed, 20 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "52bd1afbd88b",
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -1649,18 +1661,6 @@
       "id": "7f625f666338",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "Wed, 20 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "cb920945cfca",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3878,9 +3878,9 @@
       ]
     },
     {
-      "id": "94f58b450581",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "8665a96e70ff",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3914,9 +3914,9 @@
       ]
     },
     {
-      "id": "8665a96e70ff",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
+      "id": "94f58b450581",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4358,9 +4358,9 @@
       ]
     },
     {
-      "id": "fae173f5fba9",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "0a440e310365",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4370,9 +4370,9 @@
       ]
     },
     {
-      "id": "0a440e310365",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
+      "id": "fae173f5fba9",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4650,6 +4650,162 @@
       "title": "How Hugging Face Accelerated Development of Witty Works Writing Assistant",
       "url": "https://huggingface.co/blog/classification-use-cases",
       "date": "Wed, 01 Mar 2023 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "a7fec3e153ff",
+      "title": "Why B3 chose Android for secure AI-enabled productivity",
+      "url": "https://blog.google/products-and-platforms/products/android-enterprise/b3-android-enterprise/",
+      "date": "Wed, 01 Jul 2026 19:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "23883e915ab2",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "date": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ddedc50b7d7c",
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+      "date": "Wed, 01 Jul 2026 18:14:34 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "be003400c2ce",
+      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-serverless-a2a-gateway-for-agent-discovery-routing-and-access-control/",
+      "date": "Wed, 01 Jul 2026 18:07:06 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "736d729fbf15",
+      "title": "Structured memory filtering with metadata in AgentCore Memory",
+      "url": "https://aws.amazon.com/blogs/machine-learning/structured-memory-filtering-with-metadata-in-agentcore-memory/",
+      "date": "Wed, 01 Jul 2026 18:03:10 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "542e72846569",
+      "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
+      "url": "https://aws.amazon.com/blogs/machine-learning/hipporag-neurobiologically-inspired-rag-using-amazon-bedrock-amazon-neptune-and-personalized-pagerank/",
+      "date": "Wed, 01 Jul 2026 18:01:32 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "c9a51bc731e0",
+      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/",
+      "date": "Wed, 01 Jul 2026 17:53:16 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3aa3c1ddaaa6",
+      "title": "Simplify model selection in Amazon Bedrock with the open source Model Profiler",
+      "url": "https://aws.amazon.com/blogs/machine-learning/simplify-model-selection-in-amazon-bedrock-with-the-open-source-model-profiler/",
+      "date": "Wed, 01 Jul 2026 17:46:54 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3a0b663c047f",
+      "title": "Accelerate protein design with BoltzGen on Amazon SageMaker AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-protein-design-with-boltzgen-on-amazon-sagemaker-ai/",
+      "date": "Wed, 01 Jul 2026 17:44:08 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8b32c15aee37",
+      "title": "Maps has an authentic new voice in New Zealand",
+      "url": "https://blog.google/products-and-platforms/products/maps/te-reo-maori/",
+      "date": "Wed, 01 Jul 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6fdddf52a2a9",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "date": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "cc57111ddb64",
+      "title": "Safely Releasing Frontier Models to Customers",
+      "url": "https://aws.amazon.com/blogs/machine-learning/safely-releasing-frontier-models-to-customers/",
+      "date": "Wed, 01 Jul 2026 03:13:19 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b7f49b2bc148",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "date": "Wed, 01 Jul 2026 00:00:00 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
@@ -5006,6 +5162,18 @@
       ]
     },
     {
+      "id": "200e6c5f82a0",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "3c923494434c",
       "title": "Introducing GeneBench-Pro",
       "url": "https://openai.com/index/introducing-genebench-pro",
@@ -5021,18 +5189,6 @@
       "id": "4c4d91d3ce63",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "200e6c5f82a0",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -7038,162 +7194,6 @@
       "title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
       "url": "https://huggingface.co/blog/nvidia-physical-ai",
       "date": "Tue, 18 Mar 2025 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b1a646d2b5ed",
-      "title": "Xet is on the Hub",
-      "url": "https://huggingface.co/blog/xet-on-the-hub",
-      "date": "Tue, 18 Mar 2025 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "0b59ef730f52",
-      "title": "Surging developer productivity with custom GPTs",
-      "url": "https://openai.com/index/paf",
-      "date": "Tue, 18 Jun 2024 08:45:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "99c118a374b5",
-      "title": "Achieving 10x growth with agentic sales prospecting",
-      "url": "https://openai.com/index/clay",
-      "date": "Tue, 18 Jun 2024 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "21f7672aa807",
-      "title": "BigCodeBench: The Next Generation of HumanEval",
-      "url": "https://huggingface.co/blog/leaderboard-bigcodebench",
-      "date": "Tue, 18 Jun 2024 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "db253aecaed2",
-      "title": "Partnership with American Journalism Project to support local news",
-      "url": "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news",
-      "date": "Tue, 18 Jul 2023 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "2a39f2bb6122",
-      "title": "Llama 2 is here - get it on Hugging Face",
-      "url": "https://huggingface.co/blog/llama2",
-      "date": "Tue, 18 Jul 2023 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "dbe2e8dc6cd9",
-      "title": "Introducing the SWE-Lancer benchmark",
-      "url": "https://openai.com/index/swe-lancer",
-      "date": "Tue, 18 Feb 2025 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "2b595692e4cf",
-      "title": "Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥",
-      "url": "https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic",
-      "date": "Tue, 18 Feb 2025 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "decdc62c4c76",
-      "title": "Using GPT-4 to improve teaching and learning in Brazil",
-      "url": "https://openai.com/index/arco-education",
-      "date": "Tue, 17 Sep 2024 05:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d4dd843af9c6",
-      "title": "Introducing the SQL Console on Datasets",
-      "url": "https://huggingface.co/blog/sql-console",
-      "date": "Tue, 17 Sep 2024 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "e81be556726a",
-      "title": "Emergent tool use from multi-agent interaction",
-      "url": "https://openai.com/index/emergent-tool-use",
-      "date": "Tue, 17 Sep 2019 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "2cd100e4a047",
-      "title": "Domain randomization and generative models for robotic grasping",
-      "url": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping",
-      "date": "Tue, 17 Oct 2017 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4b02e0ff27bb",
-      "title": "Machine Learning Experts - Sasha Luccioni",
-      "url": "https://huggingface.co/blog/sasha-luccioni-interview",
-      "date": "Tue, 17 May 2022 00:00:00 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
