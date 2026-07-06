@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T22:54:24.112304+00:00",
+  "generated_at": "2026-07-06T22:59:07.743908+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -5066,42 +5066,6 @@
       ]
     },
     {
-      "id": "a6a4c0fac66d",
-      "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects/",
-      "date": "Tue, 30 Jun 2026 16:37:09 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "a128e4e449b6",
-      "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/",
-      "date": "Tue, 30 Jun 2026 16:33:46 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "3e55dc0e84b6",
-      "title": "Fine-tune Amazon Nova models for accurate email data extraction",
-      "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
-      "date": "Tue, 30 Jun 2026 16:26:48 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "823714b99165",
       "title": "Read our 11th annual Environmental Report",
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
@@ -7195,6 +7159,42 @@
       "url": "https://huggingface.co/blog/nvidia-physical-ai",
       "date": "Tue, 18 Mar 2025 00:00:00 GMT",
       "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b1a646d2b5ed",
+      "title": "Xet is on the Hub",
+      "url": "https://huggingface.co/blog/xet-on-the-hub",
+      "date": "Tue, 18 Mar 2025 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "0b59ef730f52",
+      "title": "Surging developer productivity with custom GPTs",
+      "url": "https://openai.com/index/paf",
+      "date": "Tue, 18 Jun 2024 08:45:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "99c118a374b5",
+      "title": "Achieving 10x growth with agentic sales prospecting",
+      "url": "https://openai.com/index/clay",
+      "date": "Tue, 18 Jun 2024 07:00:00 GMT",
+      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
