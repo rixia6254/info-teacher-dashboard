@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:50:42.948829+00:00",
+  "generated_at": "2026-07-17T22:40:30.741706+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -1346,6 +1346,18 @@
       ]
     },
     {
+      "id": "5278705df0e5",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "1b162ea8d4aa",
       "title": "Workspace agents",
       "url": "https://openai.com/academy/workspace-agents",
@@ -1361,18 +1373,6 @@
       "id": "c30ec7b01482",
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "date": "Wed, 22 Apr 2026 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "5278705df0e5",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "date": "Wed, 22 Apr 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1634,9 +1634,9 @@
       ]
     },
     {
-      "id": "52bd1afbd88b",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "id": "7f625f666338",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1646,9 +1646,9 @@
       ]
     },
     {
-      "id": "7f625f666338",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "id": "52bd1afbd88b",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "date": "Wed, 20 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4058,9 +4058,9 @@
       ]
     },
     {
-      "id": "94f58b450581",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "94a93b54a777",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4082,9 +4082,9 @@
       ]
     },
     {
-      "id": "94a93b54a777",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "id": "94f58b450581",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4370,9 +4370,9 @@
       ]
     },
     {
-      "id": "4408edb280a0",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "id": "47744e1c25f2",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4382,9 +4382,9 @@
       ]
     },
     {
-      "id": "47744e1c25f2",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
+      "id": "4408edb280a0",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5054,6 +5054,18 @@
       ]
     },
     {
+      "id": "3c923494434c",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "200e6c5f82a0",
       "title": "Inside Genebench-Pro",
       "url": "https://openai.com/index/genebench-pro/case-studies",
@@ -5069,18 +5081,6 @@
       "id": "4c4d91d3ce63",
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "date": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "3c923494434c",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5954,9 +5954,9 @@
       ]
     },
     {
-      "id": "49a9730ea52b",
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "id": "508e5e593345",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
       "date": "Tue, 24 Mar 2026 09:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5966,9 +5966,9 @@
       ]
     },
     {
-      "id": "508e5e593345",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "id": "49a9730ea52b",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "date": "Tue, 24 Mar 2026 09:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
