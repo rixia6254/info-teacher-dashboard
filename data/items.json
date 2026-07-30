@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:53:03.989388+00:00",
+  "generated_at": "2026-07-30T22:57:03.625820+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -434,6 +434,18 @@
       ]
     },
     {
+      "id": "cc8e132c6199",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "3bb56f724b32",
       "title": "Gemini for macOS adds new natural language capabilities",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
@@ -602,9 +614,9 @@
       ]
     },
     {
-      "id": "cf58b7400fc9",
-      "title": "EMEA Youth & Wellbeing Grant",
-      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "id": "075fc545e694",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
       "date": "Wed, 28 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -614,9 +626,9 @@
       ]
     },
     {
-      "id": "075fc545e694",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "id": "cf58b7400fc9",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
       "date": "Wed, 28 Jan 2026 01:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1154,9 +1166,9 @@
       ]
     },
     {
-      "id": "b0ff3df37950",
-      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
-      "url": "https://openai.com/index/gpt-4-api-general-availability",
+      "id": "42d334bcb04a",
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
       "date": "Wed, 24 Apr 2024 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1166,9 +1178,9 @@
       ]
     },
     {
-      "id": "42d334bcb04a",
-      "title": "Introducing ChatGPT and Whisper APIs",
-      "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+      "id": "b0ff3df37950",
+      "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+      "url": "https://openai.com/index/gpt-4-api-general-availability",
       "date": "Wed, 24 Apr 2024 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -1406,42 +1418,6 @@
       ]
     },
     {
-      "id": "3770d6bf3de7",
-      "title": "Q2 2026 earnings call: Remarks from our CEO",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/",
-      "date": "Wed, 22 Jul 2026 20:45:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "acb357b3c66b",
-      "title": "Here’s how to ask Gemini Live for help with anything you see.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/",
-      "date": "Wed, 22 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6f5e0936250a",
-      "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
-      "date": "Wed, 22 Jul 2026 15:54:28 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "bd6ce42035f5",
       "title": "Building AI infrastructure with the Effingham County community",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
@@ -1459,18 +1435,6 @@
       "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "date": "Wed, 22 Jul 2026 13:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "0704ff289fba",
-      "title": "Switch to Android easily — and bring your data with you.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/",
-      "date": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -2054,18 +2018,6 @@
       ]
     },
     {
-      "id": "410aa22bdc35",
-      "title": "How Scania accelerates work with AI across its global workforce",
-      "url": "https://openai.com/index/scania",
-      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "2e20d64f2447",
       "title": "A free version of ChatGPT built for teachers",
       "url": "https://openai.com/index/chatgpt-for-teachers",
@@ -2081,6 +2033,18 @@
       "id": "778f8db71ab2",
       "title": "GPT-5.1-Codex-Max System Card",
       "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+      "date": "Wed, 19 Nov 2025 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "410aa22bdc35",
+      "title": "How Scania accelerates work with AI across its global workforce",
+      "url": "https://openai.com/index/scania",
       "date": "Wed, 19 Nov 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2198,9 +2162,9 @@
       ]
     },
     {
-      "id": "e0c68f21f48f",
-      "title": "Toward understanding and preventing misalignment generalization",
-      "url": "https://openai.com/index/emergent-misalignment",
+      "id": "0962d4aa67a9",
+      "title": "Preparing for future AI risks in biology",
+      "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
       "date": "Wed, 18 Jun 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2210,9 +2174,9 @@
       ]
     },
     {
-      "id": "0962d4aa67a9",
-      "title": "Preparing for future AI risks in biology",
-      "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+      "id": "e0c68f21f48f",
+      "title": "Toward understanding and preventing misalignment generalization",
+      "url": "https://openai.com/index/emergent-misalignment",
       "date": "Wed, 18 Jun 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2582,9 +2546,9 @@
       ]
     },
     {
-      "id": "3142953457b6",
-      "title": "Thinking with images",
-      "url": "https://openai.com/index/thinking-with-images",
+      "id": "d2a0e963a651",
+      "title": "OpenAI o3 and o4-mini System Card",
+      "url": "https://openai.com/index/o3-o4-mini-system-card",
       "date": "Wed, 16 Apr 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -2594,9 +2558,9 @@
       ]
     },
     {
-      "id": "d2a0e963a651",
-      "title": "OpenAI o3 and o4-mini System Card",
-      "url": "https://openai.com/index/o3-o4-mini-system-card",
+      "id": "3142953457b6",
+      "title": "Thinking with images",
+      "url": "https://openai.com/index/thinking-with-images",
       "date": "Wed, 16 Apr 2025 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3314,18 +3278,6 @@
       ]
     },
     {
-      "id": "47dbcfa63868",
-      "title": "Simplifying contract reviews with AI",
-      "url": "https://openai.com/index/ironclad",
-      "date": "Wed, 11 Oct 2023 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "9d120c5eb719",
       "title": "Evolving online forms into dynamic data",
       "url": "https://openai.com/index/typeform",
@@ -3341,6 +3293,18 @@
       "id": "b5882215e332",
       "title": "Building AI-powered apps for business",
       "url": "https://openai.com/index/retool",
+      "date": "Wed, 11 Oct 2023 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "47dbcfa63868",
+      "title": "Simplifying contract reviews with AI",
+      "url": "https://openai.com/index/ironclad",
       "date": "Wed, 11 Oct 2023 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3590,9 +3554,9 @@
       ]
     },
     {
-      "id": "2b5724e563f2",
-      "title": "Introducing the GPT Store",
-      "url": "https://openai.com/index/introducing-the-gpt-store",
+      "id": "4c5542cdedb3",
+      "title": "Introducing ChatGPT Team",
+      "url": "https://openai.com/index/introducing-chatgpt-team",
       "date": "Wed, 10 Jan 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -3602,9 +3566,9 @@
       ]
     },
     {
-      "id": "4c5542cdedb3",
-      "title": "Introducing ChatGPT Team",
-      "url": "https://openai.com/index/introducing-chatgpt-team",
+      "id": "2b5724e563f2",
+      "title": "Introducing the GPT Store",
+      "url": "https://openai.com/index/introducing-the-gpt-store",
       "date": "Wed, 10 Jan 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4214,33 +4178,21 @@
       ]
     },
     {
-      "id": "8665a96e70ff",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "bdecd9008a33",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "date": "Wed, 06 May 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "94f58b450581",
       "title": "How frontier firms are pulling ahead",
       "url": "https://openai.com/index/introducing-b2b-signals",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8665a96e70ff",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
       "date": "Wed, 06 May 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4262,6 +4214,18 @@
       ]
     },
     {
+      "id": "bdecd9008a33",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "date": "Wed, 06 May 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "351d00366b56",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
@@ -4274,9 +4238,9 @@
       ]
     },
     {
-      "id": "46cbd18ea8dd",
-      "title": "Sparking a more productive company with ChatGPT Enterprise",
-      "url": "https://openai.com/index/match-group",
+      "id": "07180d34421a",
+      "title": "Improving health literacy and patient well-being",
+      "url": "https://openai.com/index/lifespan",
       "date": "Wed, 06 Mar 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4286,9 +4250,9 @@
       ]
     },
     {
-      "id": "07180d34421a",
-      "title": "Improving health literacy and patient well-being",
-      "url": "https://openai.com/index/lifespan",
+      "id": "46cbd18ea8dd",
+      "title": "Sparking a more productive company with ChatGPT Enterprise",
+      "url": "https://openai.com/index/match-group",
       "date": "Wed, 06 Mar 2024 08:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4538,9 +4502,9 @@
       ]
     },
     {
-      "id": "47744e1c25f2",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
+      "id": "4408edb280a0",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4550,9 +4514,9 @@
       ]
     },
     {
-      "id": "4408edb280a0",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "id": "47744e1c25f2",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
       "date": "Wed, 04 Mar 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4694,9 +4658,9 @@
       ]
     },
     {
-      "id": "fae173f5fba9",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "0a440e310365",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -4706,9 +4670,9 @@
       ]
     },
     {
-      "id": "0a440e310365",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
+      "id": "fae173f5fba9",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "date": "Wed, 03 Jun 2026 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5126,6 +5090,18 @@
       ]
     },
     {
+      "id": "9d1687ef7ccd",
+      "title": "Launching Sora responsibly",
+      "url": "https://openai.com/index/launching-sora-responsibly",
+      "date": "Tue, 30 Sep 2025 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "c8d63ee49a3a",
       "title": "Sora 2 is here",
       "url": "https://openai.com/index/sora-2",
@@ -5141,18 +5117,6 @@
       "id": "d58061564c62",
       "title": "Sora 2 System Card",
       "url": "https://openai.com/index/sora-2-system-card",
-      "date": "Tue, 30 Sep 2025 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "9d1687ef7ccd",
-      "title": "Launching Sora responsibly",
-      "url": "https://openai.com/index/launching-sora-responsibly",
       "date": "Tue, 30 Sep 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5234,9 +5198,9 @@
       ]
     },
     {
-      "id": "4c4d91d3ce63",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "id": "200e6c5f82a0",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5246,9 +5210,9 @@
       ]
     },
     {
-      "id": "200e6c5f82a0",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "id": "4c4d91d3ce63",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "Tue, 30 Jun 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5762,9 +5726,9 @@
       ]
     },
     {
-      "id": "368128e6f281",
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
+      "id": "e6284b864c34",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -5774,9 +5738,9 @@
       ]
     },
     {
-      "id": "e6284b864c34",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "id": "368128e6f281",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
       "date": "Tue, 28 Apr 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6266,9 +6230,9 @@
       ]
     },
     {
-      "id": "49a9730ea52b",
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "id": "508e5e593345",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
       "date": "Tue, 24 Mar 2026 09:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6278,9 +6242,9 @@
       ]
     },
     {
-      "id": "508e5e593345",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "id": "49a9730ea52b",
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "date": "Tue, 24 Mar 2026 09:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6674,9 +6638,9 @@
       ]
     },
     {
-      "id": "9debf0511dd0",
-      "title": "OpenAI’s new economic analysis",
-      "url": "https://openai.com/global-affairs/new-economic-analysis",
+      "id": "1f499c60214a",
+      "title": "Stargate advances with 4.5 GW partnership with Oracle",
+      "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
       "date": "Tue, 22 Jul 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6686,9 +6650,9 @@
       ]
     },
     {
-      "id": "1f499c60214a",
-      "title": "Stargate advances with 4.5 GW partnership with Oracle",
-      "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+      "id": "9debf0511dd0",
+      "title": "OpenAI’s new economic analysis",
+      "url": "https://openai.com/global-affairs/new-economic-analysis",
       "date": "Tue, 22 Jul 2025 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6914,18 +6878,6 @@
       ]
     },
     {
-      "id": "c8901d66af7e",
-      "title": "Exploring self-distilled reasoning for supervised fine-tuning with Amazon Nova",
-      "url": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
-      "date": "Tue, 21 Jul 2026 16:23:12 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "20b0eb2d5c14",
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -6962,9 +6914,9 @@
       ]
     },
     {
-      "id": "a412d5e50ab7",
-      "title": "Stargate Infrastructure",
-      "url": "https://openai.com/form/stargate-infrastructure",
+      "id": "87d22916dcc4",
+      "title": "Announcing The Stargate Project",
+      "url": "https://openai.com/index/announcing-the-stargate-project",
       "date": "Tue, 21 Jan 2025 13:30:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -6974,9 +6926,9 @@
       ]
     },
     {
-      "id": "87d22916dcc4",
-      "title": "Announcing The Stargate Project",
-      "url": "https://openai.com/index/announcing-the-stargate-project",
+      "id": "a412d5e50ab7",
+      "title": "Stargate Infrastructure",
+      "url": "https://openai.com/form/stargate-infrastructure",
       "date": "Tue, 21 Jan 2025 13:30:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
@@ -7178,6 +7130,18 @@
       ]
     },
     {
+      "id": "ec4689904d5d",
+      "title": "Preparing for malicious uses of AI",
+      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "abb33238d90c",
       "title": "OpenAI supporters",
       "url": "https://openai.com/index/openai-supporters",
@@ -7190,10 +7154,46 @@
       ]
     },
     {
-      "id": "ec4689904d5d",
-      "title": "Preparing for malicious uses of AI",
-      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
-      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
+      "id": "acad0ece58e0",
+      "title": "Model Cards",
+      "url": "https://huggingface.co/blog/model-cards",
+      "date": "Tue, 20 Dec 2022 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "62323fc1a4d0",
+      "title": "OpenAI partners with Condé Nast",
+      "url": "https://openai.com/index/conde-nast",
+      "date": "Tue, 20 Aug 2024 11:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "c466e22a3647",
+      "title": "Fine-tuning now available for GPT-4o",
+      "url": "https://openai.com/index/gpt-4o-fine-tuning",
+      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "69b8a5bf75a0",
+      "title": "Putting AI to work at Upwork",
+      "url": "https://openai.com/index/upwork",
+      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
