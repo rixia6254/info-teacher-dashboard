@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:47:03.418147+00:00",
+  "generated_at": "2026-08-03T22:53:22.164917+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -5750,9 +5750,9 @@
       ]
     },
     {
-      "id": "ae9750a8ae4a",
-      "title": "3 new ways nonprofits can put AI to work",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
+      "id": "be3ca53745f6",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "date": "Tue, 28 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -5762,9 +5762,9 @@
       ]
     },
     {
-      "id": "be3ca53745f6",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "id": "ae9750a8ae4a",
+      "title": "3 new ways nonprofits can put AI to work",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
       "date": "Tue, 28 Jul 2026 16:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -5779,18 +5779,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "date": "Tue, 28 Jul 2026 15:01:45 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "61b149676fcb",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -5813,6 +5801,18 @@
       "id": "7c8ae2784e8b",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "61b149676fcb",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
       "date": "Tue, 28 Jul 2026 13:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
