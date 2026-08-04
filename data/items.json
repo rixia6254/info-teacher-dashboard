@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:53:22.164917+00:00",
+  "generated_at": "2026-08-04T22:54:06.824611+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -5750,18 +5750,6 @@
       ]
     },
     {
-      "id": "be3ca53745f6",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "ae9750a8ae4a",
       "title": "3 new ways nonprofits can put AI to work",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
@@ -5774,11 +5762,23 @@
       ]
     },
     {
-      "id": "85dd02699b25",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "date": "Tue, 28 Jul 2026 15:01:45 GMT",
-      "source": "Hugging Face Blog",
+      "id": "be3ca53745f6",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "date": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "61b149676fcb",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -5802,30 +5802,6 @@
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "61b149676fcb",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "8b4ab2bbf9f3",
-      "title": "Google and KDDI are ready to back Japanese startups.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/",
-      "date": "Tue, 28 Jul 2026 01:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
@@ -7194,6 +7170,30 @@
       "title": "Stargate Community",
       "url": "https://openai.com/index/stargate-community",
       "date": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "4c66d465692b",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8fe35db9d836",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
