@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:54:06.824611+00:00",
+  "generated_at": "2026-08-05T22:50:04.119451+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -4430,6 +4430,66 @@
       ]
     },
     {
+      "id": "fcfd371b51ce",
+      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+      "date": "Wed, 05 Aug 2026 18:50:02 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "613c7267da08",
+      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
+      "date": "Wed, 05 Aug 2026 18:09:03 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "7fafbf87c7fc",
+      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
+      "date": "Wed, 05 Aug 2026 18:02:23 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "1c96359a4b64",
+      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
+      "date": "Wed, 05 Aug 2026 18:00:57 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "cc8d4f35907c",
+      "title": "The next chapter of our AI momentum",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "date": "Wed, 05 Aug 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "226ad6874ea4",
       "title": "Our approach to AI safety",
       "url": "https://openai.com/index/our-approach-to-ai-safety",
@@ -5798,18 +5858,6 @@
       ]
     },
     {
-      "id": "7c8ae2784e8b",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "d89a573fd218",
       "title": "Welcome to Inference Providers on the Hub 🔥",
       "url": "https://huggingface.co/blog/inference-providers",
@@ -7147,54 +7195,6 @@
       "url": "https://huggingface.co/blog/policy-ntia-rfc",
       "date": "Tue, 20 Jun 2023 00:00:00 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6ed9efa8b174",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "url": "https://openai.com/index/horizon-1000",
-      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "90314fb861a5",
-      "title": "Stargate Community",
-      "url": "https://openai.com/index/stargate-community",
-      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4c66d465692b",
-      "title": "One Year Since the “DeepSeek Moment”",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "8fe35db9d836",
-      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
-      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
