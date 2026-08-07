@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:50:04.119451+00:00",
+  "generated_at": "2026-08-07T01:27:34.361448+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -362,18 +362,6 @@
       ]
     },
     {
-      "id": "61314b709078",
-      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-      "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
-      "date": "Wed, 29 Jul 2026 16:20:28 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "97fcf0e0c055",
       "title": "How the Head of YouTube Health handles screen time with his kids",
       "url": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
@@ -398,35 +386,11 @@
       ]
     },
     {
-      "id": "fecf4e42e30a",
-      "title": "Generate Autonomous Business Insights with AI Agent and MCP Servers",
-      "url": "https://aws.amazon.com/blogs/machine-learning/generate-autonomous-business-insights-with-ai-agent-and-mcp-servers/",
-      "date": "Wed, 29 Jul 2026 15:34:18 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "ef4c510c15e7",
       "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
       "url": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
       "date": "Wed, 29 Jul 2026 15:30:00 +0000",
       "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "c5d846f9d640",
-      "title": "Automating customer retention workflows in Amazon Quick",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automating-customer-retention-workflows-in-amazon-quick/",
-      "date": "Wed, 29 Jul 2026 15:24:21 +0000",
-      "source": "AWS Machine Learning Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -5750,30 +5714,6 @@
       ]
     },
     {
-      "id": "2e947008764b",
-      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
-      "date": "Tue, 28 Jul 2026 19:07:09 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "acb8bc77a576",
-      "title": "Market surveillance agent with LangGraph and Strands on AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/market-surveillance-agent-with-langgraph-and-strands-on-agentcore/",
-      "date": "Tue, 28 Jul 2026 17:24:54 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "df22037e3e0f",
       "title": "Scientific computing in the age of agentic AI",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -5791,66 +5731,6 @@
       "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
       "date": "Tue, 28 Jul 2026 16:27:42 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "25d2cdbe4dfc",
-      "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/",
-      "date": "Tue, 28 Jul 2026 16:15:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "ae9750a8ae4a",
-      "title": "3 new ways nonprofits can put AI to work",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
-      "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "be3ca53745f6",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "date": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "61b149676fcb",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "257cbd695a09",
-      "title": "These Google Trends show people really want to touch grass",
-      "url": "https://blog.google/products-and-platforms/products/search/touch-grass-trends/",
-      "date": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -7195,6 +7075,126 @@
       "url": "https://huggingface.co/blog/policy-ntia-rfc",
       "date": "Tue, 20 Jun 2023 00:00:00 GMT",
       "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6ed9efa8b174",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
+      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "90314fb861a5",
+      "title": "Stargate Community",
+      "url": "https://openai.com/index/stargate-community",
+      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "4c66d465692b",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8fe35db9d836",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d6ae64ab3b5d",
+      "title": "Differential Transformer V2",
+      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "date": "Tue, 20 Jan 2026 03:20:57 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "4628896343fc",
+      "title": "Our approach to age prediction",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "787dc2960702",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "url": "https://huggingface.co/blog/waypoint-1",
+      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "e52e6ea36ace",
+      "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+      "url": "https://huggingface.co/blog/leaderboard-upstage",
+      "date": "Tue, 20 Feb 2024 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ec4689904d5d",
+      "title": "Preparing for malicious uses of AI",
+      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "abb33238d90c",
+      "title": "OpenAI supporters",
+      "url": "https://openai.com/index/openai-supporters",
+      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
+      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
