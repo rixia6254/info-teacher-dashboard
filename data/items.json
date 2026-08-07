@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:27:34.361448+00:00",
+  "generated_at": "2026-08-07T22:26:04.032542+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -403,18 +403,6 @@
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "date": "Wed, 29 Jul 2026 15:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "3bb56f724b32",
-      "title": "Gemini for macOS adds new natural language capabilities",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
-      "date": "Wed, 29 Jul 2026 15:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -5726,18 +5714,6 @@
       ]
     },
     {
-      "id": "92e866603de3",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "date": "Tue, 28 Jul 2026 16:27:42 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "d89a573fd218",
       "title": "Welcome to Inference Providers on the Hub 🔥",
       "url": "https://huggingface.co/blog/inference-providers",
@@ -7194,6 +7170,30 @@
       "title": "OpenAI supporters",
       "url": "https://openai.com/index/openai-supporters",
       "date": "Tue, 20 Feb 2018 08:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "acad0ece58e0",
+      "title": "Model Cards",
+      "url": "https://huggingface.co/blog/model-cards",
+      "date": "Tue, 20 Dec 2022 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "62323fc1a4d0",
+      "title": "OpenAI partners with Condé Nast",
+      "url": "https://openai.com/index/conde-nast",
+      "date": "Tue, 20 Aug 2024 11:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
