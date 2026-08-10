@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:20:53.370733+00:00",
+  "generated_at": "2026-08-10T22:27:46.643665+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -355,42 +355,6 @@
       "url": "https://huggingface.co/blog/your-first-ml-project",
       "date": "Wed, 29 Jun 2022 00:00:00 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "97fcf0e0c055",
-      "title": "How the Head of YouTube Health handles screen time with his kids",
-      "url": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
-      "date": "Wed, 29 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "3cd190f778d5",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
-      "date": "Wed, 29 Jul 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "ef4c510c15e7",
-      "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
-      "url": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
-      "date": "Wed, 29 Jul 2026 15:30:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -7194,6 +7158,42 @@
       "title": "OpenAI partners with Condé Nast",
       "url": "https://openai.com/index/conde-nast",
       "date": "Tue, 20 Aug 2024 11:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "69b8a5bf75a0",
+      "title": "Putting AI to work at Upwork",
+      "url": "https://openai.com/index/upwork",
+      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "c466e22a3647",
+      "title": "Fine-tuning now available for GPT-4o",
+      "url": "https://openai.com/index/gpt-4o-fine-tuning",
+      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b45afe9cdf74",
+      "title": "GPT-2: 6-month follow-up",
+      "url": "https://openai.com/index/gpt-2-6-month-follow-up",
+      "date": "Tue, 20 Aug 2019 07:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
