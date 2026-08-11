@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:27:46.643665+00:00",
+  "generated_at": "2026-08-11T22:32:57.246153+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -4382,18 +4382,6 @@
       ]
     },
     {
-      "id": "1c96359a4b64",
-      "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-production-ai-agents-in-n8n-with-amazon-bedrock-agentcore-harness/",
-      "date": "Wed, 05 Aug 2026 18:00:57 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "cc8d4f35907c",
       "title": "The next chapter of our AI momentum",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
@@ -7195,6 +7183,18 @@
       "url": "https://openai.com/index/gpt-2-6-month-follow-up",
       "date": "Tue, 20 Aug 2019 07:00:00 GMT",
       "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "0dc2f5ad4fa1",
+      "title": "Scaling-up BERT Inference on CPU (Part 1)",
+      "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+      "date": "Tue, 20 Apr 2021 00:00:00 GMT",
+      "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
