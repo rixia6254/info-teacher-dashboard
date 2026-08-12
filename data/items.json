@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:32:57.246153+00:00",
+  "generated_at": "2026-08-12T22:31:34.083221+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -3182,6 +3182,282 @@
       ]
     },
     {
+      "id": "0ee8ec44a6bd",
+      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "date": "Wed, 12 Aug 2026 17:45:20 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "e43158037a35",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "date": "Wed, 12 Aug 2026 16:14:36 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ab799e9da743",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "date": "Wed, 12 Aug 2026 14:00:51 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "7296a8a58b8a",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "f9606ad3e31f",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "39dbc593f5a0",
+      "title": "Sharing between Pixel devices is now just a tap away.",
+      "url": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d85b0bfbf443",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "47eb44533198",
+      "title": "The Pixel 11 series: Your most personal Pixel yet",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "41906343a66c",
+      "title": "Here’s your first look at the newest Pixel devices.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b4d1c7f1a20a",
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "0da0c1690542",
+      "title": "New accessories for Pixel 11 phones are here.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6a6bcc205036",
+      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5f753ff1edd2",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "58f40ae24e6c",
+      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b4b3a65d5e26",
+      "title": "Made by Google 2026",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "39496f2586a8",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6d6bee950fcd",
+      "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+      "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8da5660bc36a",
+      "title": "How your Pixel Watch steps in if you stop breathing",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5a4d446366ed",
+      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "date": "Wed, 12 Aug 2026 13:46:28 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "9e2cd338c9fd",
+      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "date": "Wed, 12 Aug 2026 13:44:58 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ec07638ad4b3",
+      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+      "url": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "date": "Wed, 12 Aug 2026 13:42:48 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "fb21820d806b",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "date": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "cad35e6294fe",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "date": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "9717f0d8e26d",
       "title": "Creating Privacy Preserving AI with Substra",
       "url": "https://huggingface.co/blog/owkin-substra",
@@ -4339,54 +4615,6 @@
       "url": "https://openai.com/index/introducing-data-residency-in-europe",
       "date": "Wed, 05 Feb 2025 22:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "fcfd371b51ce",
-      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
-      "date": "Wed, 05 Aug 2026 18:50:02 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "613c7267da08",
-      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-mobileye-transformed-support-operations-using-amazon-bedrock-agentcore/",
-      "date": "Wed, 05 Aug 2026 18:09:03 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "7fafbf87c7fc",
-      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-we-built-an-mcp-bridge-to-give-our-agentcore-hosted-ai-agent-access-to-local-mcp-tools/",
-      "date": "Wed, 05 Aug 2026 18:02:23 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "cc8d4f35907c",
-      "title": "The next chapter of our AI momentum",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "date": "Wed, 05 Aug 2026 16:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -6967,234 +7195,6 @@
       "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "date": "Tue, 21 Apr 2026 00:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "cd40c18e81f2",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d064fcc4066c",
-      "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
-      "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
-      "date": "Tue, 20 Mar 2018 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "65151b0ef52d",
-      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
-      "url": "https://huggingface.co/blog/policy-ntia-rfc",
-      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6ed9efa8b174",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "url": "https://openai.com/index/horizon-1000",
-      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "90314fb861a5",
-      "title": "Stargate Community",
-      "url": "https://openai.com/index/stargate-community",
-      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4c66d465692b",
-      "title": "One Year Since the “DeepSeek Moment”",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "8fe35db9d836",
-      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d6ae64ab3b5d",
-      "title": "Differential Transformer V2",
-      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "date": "Tue, 20 Jan 2026 03:20:57 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4628896343fc",
-      "title": "Our approach to age prediction",
-      "url": "https://openai.com/index/our-approach-to-age-prediction",
-      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "787dc2960702",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "url": "https://huggingface.co/blog/waypoint-1",
-      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "e52e6ea36ace",
-      "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
-      "url": "https://huggingface.co/blog/leaderboard-upstage",
-      "date": "Tue, 20 Feb 2024 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "ec4689904d5d",
-      "title": "Preparing for malicious uses of AI",
-      "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
-      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "abb33238d90c",
-      "title": "OpenAI supporters",
-      "url": "https://openai.com/index/openai-supporters",
-      "date": "Tue, 20 Feb 2018 08:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "acad0ece58e0",
-      "title": "Model Cards",
-      "url": "https://huggingface.co/blog/model-cards",
-      "date": "Tue, 20 Dec 2022 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "62323fc1a4d0",
-      "title": "OpenAI partners with Condé Nast",
-      "url": "https://openai.com/index/conde-nast",
-      "date": "Tue, 20 Aug 2024 11:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "69b8a5bf75a0",
-      "title": "Putting AI to work at Upwork",
-      "url": "https://openai.com/index/upwork",
-      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "c466e22a3647",
-      "title": "Fine-tuning now available for GPT-4o",
-      "url": "https://openai.com/index/gpt-4o-fine-tuning",
-      "date": "Tue, 20 Aug 2024 10:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b45afe9cdf74",
-      "title": "GPT-2: 6-month follow-up",
-      "url": "https://openai.com/index/gpt-2-6-month-follow-up",
-      "date": "Tue, 20 Aug 2019 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "0dc2f5ad4fa1",
-      "title": "Scaling-up BERT Inference on CPU (Part 1)",
-      "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
-      "date": "Tue, 20 Apr 2021 00:00:00 GMT",
-      "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
