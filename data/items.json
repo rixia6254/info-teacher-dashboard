@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:31:34.083221+00:00",
+  "generated_at": "2026-08-13T22:32:18.342219+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -3218,30 +3218,6 @@
       ]
     },
     {
-      "id": "7296a8a58b8a",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "f9606ad3e31f",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "39dbc593f5a0",
       "title": "Sharing between Pixel devices is now just a tap away.",
       "url": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
@@ -3254,9 +3230,9 @@
       ]
     },
     {
-      "id": "d85b0bfbf443",
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+      "id": "39496f2586a8",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3269,6 +3245,30 @@
       "id": "47eb44533198",
       "title": "The Pixel 11 series: Your most personal Pixel yet",
       "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5f753ff1edd2",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "58f40ae24e6c",
+      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3326,9 +3326,9 @@
       ]
     },
     {
-      "id": "5f753ff1edd2",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "id": "d85b0bfbf443",
+      "title": "7 can’t-miss updates from our Pixel 11 launch",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3338,9 +3338,9 @@
       ]
     },
     {
-      "id": "58f40ae24e6c",
-      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "id": "6d6bee950fcd",
+      "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+      "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3362,9 +3362,9 @@
       ]
     },
     {
-      "id": "39496f2586a8",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "id": "7296a8a58b8a",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3374,9 +3374,9 @@
       ]
     },
     {
-      "id": "6d6bee950fcd",
-      "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
-      "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+      "id": "f9606ad3e31f",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
