@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:15:24.242248+00:00",
+  "generated_at": "2026-08-18T22:13:40.723036+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -3230,9 +3230,9 @@
       ]
     },
     {
-      "id": "6a6bcc205036",
-      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+      "id": "7296a8a58b8a",
+      "title": "How we built the new GPS on Pixel Watch 5",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3242,9 +3242,9 @@
       ]
     },
     {
-      "id": "47eb44533198",
-      "title": "The Pixel 11 series: Your most personal Pixel yet",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+      "id": "b4b3a65d5e26",
+      "title": "Made by Google 2026",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3254,9 +3254,9 @@
       ]
     },
     {
-      "id": "5f753ff1edd2",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "id": "39496f2586a8",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3266,9 +3266,9 @@
       ]
     },
     {
-      "id": "58f40ae24e6c",
-      "title": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "id": "f9606ad3e31f",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3314,9 +3314,9 @@
       ]
     },
     {
-      "id": "f9606ad3e31f",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "id": "6a6bcc205036",
+      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3329,54 +3329,6 @@
       "id": "6d6bee950fcd",
       "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
       "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b4b3a65d5e26",
-      "title": "Made by Google 2026",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "39496f2586a8",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d85b0bfbf443",
-      "title": "7 can’t-miss updates from our Pixel 11 launch",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "7296a8a58b8a",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -7195,6 +7147,54 @@
       "url": "https://huggingface.co/blog/cybersecurity-openness",
       "date": "Tue, 21 Apr 2026 00:00:00 GMT",
       "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d064fcc4066c",
+      "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
+      "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
+      "date": "Tue, 20 Mar 2018 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "65151b0ef52d",
+      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+      "url": "https://huggingface.co/blog/policy-ntia-rfc",
+      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6ed9efa8b174",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
+      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "90314fb861a5",
+      "title": "Stargate Community",
+      "url": "https://openai.com/index/stargate-community",
+      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
       "tags": [
