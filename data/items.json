@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:13:40.723036+00:00",
+  "generated_at": "2026-08-19T22:15:39.084354+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -2018,6 +2018,162 @@
       ]
     },
     {
+      "id": "ea67610c0af6",
+      "title": "Domain and publish date filters for Web Search on AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+      "date": "Wed, 19 Aug 2026 22:13:20 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "1044866894b9",
+      "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+      "date": "Wed, 19 Aug 2026 22:09:56 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5571d9d4462f",
+      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+      "url": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+      "date": "Wed, 19 Aug 2026 22:06:09 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6452962f8f46",
+      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+      "date": "Wed, 19 Aug 2026 20:40:45 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "936b34c89653",
+      "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
+      "url": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+      "date": "Wed, 19 Aug 2026 20:36:50 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ef913e9fdabc",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "a87414927489",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "c8cb39294e9a",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "28f6961d4ff2",
+      "title": "Back to School 2026",
+      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "72c8387a143a",
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
+      "date": "Wed, 19 Aug 2026 17:30:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "44dfd4fe40de",
+      "title": "What 3 creatives built with unlimited access to Google Flow",
+      "url": "https://blog.google/products/ads-commerce/the-small-brief/",
+      "date": "Wed, 19 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "22e214c52569",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "9ac0643f2427",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "b08a603774ef",
       "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
       "url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
@@ -3206,45 +3362,9 @@
       ]
     },
     {
-      "id": "ab799e9da743",
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "date": "Wed, 12 Aug 2026 14:00:51 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "39dbc593f5a0",
       "title": "Sharing between Pixel devices is now just a tap away.",
       "url": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "7296a8a58b8a",
-      "title": "How we built the new GPS on Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b4b3a65d5e26",
-      "title": "Made by Google 2026",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3266,9 +3386,9 @@
       ]
     },
     {
-      "id": "f9606ad3e31f",
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "id": "47eb44533198",
+      "title": "The Pixel 11 series: Your most personal Pixel yet",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -3278,95 +3398,11 @@
       ]
     },
     {
-      "id": "41906343a66c",
-      "title": "Here’s your first look at the newest Pixel devices.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+      "id": "5f753ff1edd2",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
       "date": "Wed, 12 Aug 2026 14:00:00 +0000",
       "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "b4d1c7f1a20a",
-      "title": "Here are 3 ways your Pixel just got even more helpful.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "0da0c1690542",
-      "title": "New accessories for Pixel 11 phones are here.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6a6bcc205036",
-      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6d6bee950fcd",
-      "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
-      "url": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "5a4d446366ed",
-      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
-      "date": "Wed, 12 Aug 2026 13:46:28 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "9e2cd338c9fd",
-      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
-      "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
-      "date": "Wed, 12 Aug 2026 13:44:58 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "ec07638ad4b3",
-      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
-      "url": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
-      "date": "Wed, 12 Aug 2026 13:42:48 +0000",
-      "source": "AWS Machine Learning Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -7158,42 +7194,6 @@
       "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
       "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
       "date": "Tue, 20 Mar 2018 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "65151b0ef52d",
-      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
-      "url": "https://huggingface.co/blog/policy-ntia-rfc",
-      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6ed9efa8b174",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "url": "https://openai.com/index/horizon-1000",
-      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "90314fb861a5",
-      "title": "Stargate Community",
-      "url": "https://openai.com/index/stargate-community",
-      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
