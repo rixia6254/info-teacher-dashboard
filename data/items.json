@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:15:39.084354+00:00",
+  "generated_at": "2026-08-20T22:17:39.166295+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -2150,18 +2150,6 @@
       ]
     },
     {
-      "id": "22e214c52569",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "date": "Wed, 19 Aug 2026 13:48:49 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "9ac0643f2427",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "url": "https://openai.com/index/replit",
@@ -3338,71 +3326,11 @@
       ]
     },
     {
-      "id": "0ee8ec44a6bd",
-      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
-      "date": "Wed, 12 Aug 2026 17:45:20 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "e43158037a35",
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "Wed, 12 Aug 2026 16:14:36 GMT",
       "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "39dbc593f5a0",
-      "title": "Sharing between Pixel devices is now just a tap away.",
-      "url": "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "39496f2586a8",
-      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "47eb44533198",
-      "title": "The Pixel 11 series: Your most personal Pixel yet",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "5f753ff1edd2",
-      "title": "Keep tabs on your valuables with Google Pixel Tag",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
-      "date": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -7195,6 +7123,78 @@
       "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
       "date": "Tue, 20 Mar 2018 07:00:00 GMT",
       "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "65151b0ef52d",
+      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+      "url": "https://huggingface.co/blog/policy-ntia-rfc",
+      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6ed9efa8b174",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
+      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "90314fb861a5",
+      "title": "Stargate Community",
+      "url": "https://openai.com/index/stargate-community",
+      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "4c66d465692b",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "8fe35db9d836",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d6ae64ab3b5d",
+      "title": "Differential Transformer V2",
+      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "date": "Tue, 20 Jan 2026 03:20:57 GMT",
+      "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
