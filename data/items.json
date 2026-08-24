@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:12:51.662006+00:00",
+  "generated_at": "2026-08-24T22:16:47.307370+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -2042,42 +2042,6 @@
       ]
     },
     {
-      "id": "5571d9d4462f",
-      "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
-      "url": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
-      "date": "Wed, 19 Aug 2026 22:06:09 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6452962f8f46",
-      "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
-      "date": "Wed, 19 Aug 2026 20:40:45 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "936b34c89653",
-      "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
-      "url": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
-      "date": "Wed, 19 Aug 2026 20:36:50 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
       "id": "ef913e9fdabc",
       "title": "Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -2102,9 +2066,9 @@
       ]
     },
     {
-      "id": "28f6961d4ff2",
-      "title": "Back to School 2026",
-      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "id": "c8cb39294e9a",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
       "date": "Wed, 19 Aug 2026 19:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -2114,9 +2078,9 @@
       ]
     },
     {
-      "id": "c8cb39294e9a",
-      "title": "Start the semester with one year of Gemini, on us",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "id": "28f6961d4ff2",
+      "title": "Back to School 2026",
+      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
       "date": "Wed, 19 Aug 2026 19:00:00 +0000",
       "source": "Google AI Blog",
       "category": "AI",
@@ -7194,6 +7158,42 @@
       "title": "Differential Transformer V2",
       "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
       "date": "Tue, 20 Jan 2026 03:20:57 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "4628896343fc",
+      "title": "Our approach to age prediction",
+      "url": "https://openai.com/index/our-approach-to-age-prediction",
+      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "787dc2960702",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "url": "https://huggingface.co/blog/waypoint-1",
+      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "e52e6ea36ace",
+      "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+      "url": "https://huggingface.co/blog/leaderboard-upstage",
+      "date": "Tue, 20 Feb 2024 00:00:00 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
