@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:16:47.307370+00:00",
+  "generated_at": "2026-08-25T22:17:28.196588+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -2011,30 +2011,6 @@
       "url": "https://openai.com/index/openai-summer-fellows-2018",
       "date": "Wed, 19 Dec 2018 08:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "ea67610c0af6",
-      "title": "Domain and publish date filters for Web Search on AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
-      "date": "Wed, 19 Aug 2026 22:13:20 +0000",
-      "source": "AWS Machine Learning Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "1044866894b9",
-      "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
-      "url": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
-      "date": "Wed, 19 Aug 2026 22:09:56 +0000",
-      "source": "AWS Machine Learning Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -6218,6 +6194,174 @@
       ]
     },
     {
+      "id": "2dcc1097db9f",
+      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+      "date": "Tue, 25 Aug 2026 20:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6c9594724bc3",
+      "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+      "date": "Tue, 25 Aug 2026 19:00:09 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "b4914fbfb3bf",
+      "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+      "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+      "date": "Tue, 25 Aug 2026 16:35:01 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5f0b03166bf1",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "date": "Tue, 25 Aug 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ca945c8910f3",
+      "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
+      "date": "Tue, 25 Aug 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "74043a2c13e4",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "Tue, 25 Aug 2026 15:14:14 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ef640c0b5024",
+      "title": "Ready to play? Experience Google Play’s biggest Gamescom showcase yet.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/",
+      "date": "Tue, 25 Aug 2026 14:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d42df4a1b4c3",
+      "title": "We’re partnering with the State of Delaware to provide free AI and career training.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
+      "date": "Tue, 25 Aug 2026 13:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "f6b26e55a489",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "date": "Tue, 25 Aug 2026 11:39:24 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "829e237a888d",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "date": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "9ad99bb5f40a",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "da55f7d7bd9d",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "cfc376addf8c",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "2983dbf79834",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
       "id": "13286317bc85",
       "title": "New ways to manage your data in ChatGPT",
       "url": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt",
@@ -7050,150 +7194,6 @@
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
       "date": "Tue, 21 Apr 2026 10:09:58 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d9639e2fcb88",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "cd40c18e81f2",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "date": "Tue, 21 Apr 2026 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d064fcc4066c",
-      "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
-      "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
-      "date": "Tue, 20 Mar 2018 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "65151b0ef52d",
-      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
-      "url": "https://huggingface.co/blog/policy-ntia-rfc",
-      "date": "Tue, 20 Jun 2023 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "6ed9efa8b174",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "url": "https://openai.com/index/horizon-1000",
-      "date": "Tue, 20 Jan 2026 21:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "90314fb861a5",
-      "title": "Stargate Community",
-      "url": "https://openai.com/index/stargate-community",
-      "date": "Tue, 20 Jan 2026 19:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4c66d465692b",
-      "title": "One Year Since the “DeepSeek Moment”",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "date": "Tue, 20 Jan 2026 15:02:10 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "8fe35db9d836",
-      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
-      "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
-      "date": "Tue, 20 Jan 2026 05:45:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d6ae64ab3b5d",
-      "title": "Differential Transformer V2",
-      "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-      "date": "Tue, 20 Jan 2026 03:20:57 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "4628896343fc",
-      "title": "Our approach to age prediction",
-      "url": "https://openai.com/index/our-approach-to-age-prediction",
-      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "787dc2960702",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "url": "https://huggingface.co/blog/waypoint-1",
-      "date": "Tue, 20 Jan 2026 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "e52e6ea36ace",
-      "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
-      "url": "https://huggingface.co/blog/leaderboard-upstage",
-      "date": "Tue, 20 Feb 2024 00:00:00 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
