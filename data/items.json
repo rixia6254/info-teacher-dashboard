@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:17:28.196588+00:00",
+  "generated_at": "2026-08-27T02:27:51.411009+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -775,6 +775,210 @@
       "url": "https://openai.com/index/frontier-model-forum",
       "date": "Wed, 26 Jul 2023 07:00:00 GMT",
       "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6305a58a6ff5",
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "date": "Wed, 26 Aug 2026 20:30:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "94442d6dda4e",
+      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+      "date": "Wed, 26 Aug 2026 19:13:35 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "592fab142c4f",
+      "title": "Turn your voice into action with new productivity features in Gemini Live",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+      "date": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "ebc75e4d00ed",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "date": "Wed, 26 Aug 2026 17:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "6a42b84a2ab4",
+      "title": "How GoDaddy transformed its analytics with Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
+      "date": "Wed, 26 Aug 2026 16:51:53 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "c353bc3e116a",
+      "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+      "date": "Wed, 26 Aug 2026 16:36:35 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "45ebfc6acc33",
+      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+      "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+      "date": "Wed, 26 Aug 2026 16:31:32 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "7e3225c3cf29",
+      "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
+      "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-2-advanced-data-strategies/",
+      "date": "Wed, 26 Aug 2026 16:24:05 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "1236e629e41e",
+      "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
+      "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
+      "date": "Wed, 26 Aug 2026 16:24:02 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "3975e6fa424e",
+      "title": "28 startups using AI to transform the energy sector",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/",
+      "date": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "17c18ec5543c",
+      "title": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
+      "url": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
+      "date": "Wed, 26 Aug 2026 15:48:10 +0000",
+      "source": "AWS Machine Learning Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d6bb1031e66b",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "cdfc10030b4b",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "date": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "99e91b5848f9",
+      "title": "Google at the Global Forum on Intellectual Property",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+      "date": "Wed, 26 Aug 2026 04:15:00 +0000",
+      "source": "Google AI Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "504dd1ec9508",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d34e82eae2f2",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "5309d9655463",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -2023,66 +2227,6 @@
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "date": "Wed, 19 Aug 2026 19:00:00 GMT",
       "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "a87414927489",
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "c8cb39294e9a",
-      "title": "Start the semester with one year of Gemini, on us",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
-      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "28f6961d4ff2",
-      "title": "Back to School 2026",
-      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
-      "date": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "72c8387a143a",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
-      "date": "Wed, 19 Aug 2026 17:30:00 +0000",
-      "source": "Google AI Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "44dfd4fe40de",
-      "title": "What 3 creatives built with unlimited access to Google Flow",
-      "url": "https://blog.google/products/ads-commerce/the-small-brief/",
-      "date": "Wed, 19 Aug 2026 14:00:00 +0000",
-      "source": "Google AI Blog",
       "category": "AI",
       "important_hint": false,
       "tags": [
@@ -7050,150 +7194,6 @@
       "title": "From cloud to developers: Hugging Face and Microsoft Deepen Collaboration",
       "url": "https://huggingface.co/blog/microsoft-collaboration",
       "date": "Tue, 21 May 2024 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "f0f460ff3761",
-      "title": "One-shot imitation learning",
-      "url": "https://openai.com/index/one-shot-imitation-learning",
-      "date": "Tue, 21 Mar 2017 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "33560eec3a69",
-      "title": "Concrete AI safety problems",
-      "url": "https://openai.com/index/concrete-ai-safety-problems",
-      "date": "Tue, 21 Jun 2016 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "d42362617c64",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "date": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "20b0eb2d5c14",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "date": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "40359dbf5a24",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "f07ea0986edc",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "date": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "87d22916dcc4",
-      "title": "Announcing The Stargate Project",
-      "url": "https://openai.com/index/announcing-the-stargate-project",
-      "date": "Tue, 21 Jan 2025 13:30:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "a412d5e50ab7",
-      "title": "Stargate Infrastructure",
-      "url": "https://openai.com/form/stargate-infrastructure",
-      "date": "Tue, 21 Jan 2025 13:30:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "81c12d2c0ea0",
-      "title": "Hugging Face and AWS partner to make AI more accessible",
-      "url": "https://huggingface.co/blog/aws-partnership",
-      "date": "Tue, 21 Feb 2023 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "a5a6688d1ad3",
-      "title": "Gradio is joining Hugging Face!",
-      "url": "https://huggingface.co/blog/gradio-joins-hf",
-      "date": "Tue, 21 Dec 2021 00:00:00 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "84d8ed5de18a",
-      "title": "Introducing ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "date": "Tue, 21 Apr 2026 12:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "24e2166b86b9",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "date": "Tue, 21 Apr 2026 10:09:58 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
