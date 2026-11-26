@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:42:48.851359+00:00",
+  "generated_at": "2026-11-26T03:51:32.431939+00:00",
   "items": [
     {
       "id": "01d3551fbdf4",
@@ -978,6 +978,42 @@
       "title": "Interactively explore your Huggingface dataset with one line of code",
       "url": "https://huggingface.co/blog/scalable-data-inspection",
       "date": "Wed, 25 Oct 2023 00:00:00 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "37b5c9ba9326",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "date": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d0a3a7f662b5",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "date": "Wed, 25 Nov 2026 10:22:09 GMT",
+      "source": "Hugging Face Blog",
+      "category": "AI",
+      "important_hint": false,
+      "tags": [
+        "#生成AI"
+      ]
+    },
+    {
+      "id": "d8d6777ecf09",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "date": "Wed, 25 Nov 2026 00:00:00 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
@@ -2490,18 +2526,6 @@
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "date": "Wed, 18 Nov 2026 18:53:43 GMT",
-      "source": "Hugging Face Blog",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "bf1424b145e4",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "date": "Wed, 18 Nov 2026 15:00:23 GMT",
       "source": "Hugging Face Blog",
       "category": "AI",
       "important_hint": false,
@@ -7170,30 +7194,6 @@
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "url": "https://openai.com/index/jalapeno-first-results",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "da55f7d7bd9d",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "source": "OpenAI News",
-      "category": "AI",
-      "important_hint": false,
-      "tags": [
-        "#生成AI"
-      ]
-    },
-    {
-      "id": "cfc376addf8c",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "date": "Tue, 25 Aug 2026 00:00:00 GMT",
       "source": "OpenAI News",
       "category": "AI",
       "important_hint": false,
